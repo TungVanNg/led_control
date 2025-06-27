@@ -1,0 +1,3 @@
+D:
+cd IoT_Projects\led_nhandien\led_control
+python hand_control_light.py

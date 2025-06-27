@@ -1,0 +1,19 @@
+Cử Chỉ Điều Khiển:
+
+🖐 5 ngón giương → Bật tất cả LED
+✊ Nắm tay → Tắt tất cả LED
+👍 Chỉ ngón cái → Hiệu ứng nhấp nháy
+☝️ Chỉ ngón trỏ → Hiệu ứng chạy sáng
+🖕 Chỉ ngón giữa → Hiệu ứng thở
+💍 Chỉ ngón áp út → Hiệu ứng cầu vồng
+🤙 Chỉ ngón út → Hiệu ứng sóng
+✌️ 2 ngón (cái + trỏ) → Hiệu ứng mờ dần
+🤘 2 ngón (trỏ + giữa) → Hiệu ứng strobe
+👌 3 ngón đầu → Hiệu ứng long lanh
+
+Phím Tắt:
+
+ESC: Thoát chương trình
+T: Test kết nối Arduino
+R: Reset hệ thống
+D: Chế độ debug
